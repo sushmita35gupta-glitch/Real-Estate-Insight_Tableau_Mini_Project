@@ -225,4 +225,9 @@ When a town is selected, users can navigate to a corresponding web page using th
 Example URL structure:
 
 ```text
-https://en.wikipedia.org/wiki/<Town>
+https://en.wikipedia.org/wiki/<Bloomington>
+
+👩‍💻 Author
+
+Sushmita Kumari
+ Data Analyst
