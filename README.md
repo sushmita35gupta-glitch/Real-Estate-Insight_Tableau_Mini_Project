@@ -47,7 +47,7 @@ The project contains a single interactive Tableau dashboard with multiple views 
 
 ## 1️⃣ Home
 
-![Gergraphical](Images/Gergraphical.png)
+![Home](Images/Home.png)
 
 Provides an overall summary of the real estate dataset.
 
@@ -75,6 +75,7 @@ Provides an overall summary of the real estate dataset.
 ---
 
 ## 2️⃣ Timeline View
+![Timeline](Images/Timeline.png)
 
 Analyzes year-over-year real estate sales trends.
 
@@ -98,6 +99,7 @@ The visualization shows a substantial increase in sales over the analysis period
 ---
 
 ## 3️⃣ Regional View
+![Regional](Images/Regional.png)
 
 Analyzes sales ratio performance across towns and residential property types.
 
@@ -122,6 +124,7 @@ The heatmap format makes it easier to identify variations in sales ratio across 
 ---
 
 ## 4️⃣ Geographical View
+![Gergraphical](Images/Gergraphical.png)
 
 Provides a geographical analysis of total real estate sales.
 
@@ -144,6 +147,7 @@ The geographical view helps users explore how real estate sales are distributed 
 
 ## 5️⃣ Insights & Briefing
 
+![Insight](Images/Insight.png)
 Provides a summary of the major findings from the real estate analysis.
 
 ### Key Areas
