@@ -47,6 +47,8 @@ The project contains a single interactive Tableau dashboard with multiple views 
 
 ## 1️⃣ Home
 
+![Geographical](Images/Geographical.png)
+
 Provides an overall summary of the real estate dataset.
 
 ### KPIs
